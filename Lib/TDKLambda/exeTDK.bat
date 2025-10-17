@@ -1,0 +1,1 @@
+python C:\TESTSTAND_DHA_STTE\STTE_Teststand\Lib\TDKLambda\TDKLam.py %1
